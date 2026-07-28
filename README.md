@@ -1,5 +1,5 @@
 <a href="https://www.dipenthapa7.com.np/">
-  <img width="100%" src="./assets/dipen-thapa-banner.webp" alt="Dipen Thapa — BIT Student, AI/ML and Aspiring Data Scientist">
+  <img width="100%" src="./dipen-thapa-banner.webp" alt="Dipen Thapa — BIT Student, AI/ML and Aspiring Data Scientist">
 </a>
 
 <div align="center">
